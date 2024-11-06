@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Space+Grotesk:wght@300..700&display=swap');
+
+*{
+    font-family: 'roboto', sans-serif;
+}
+
+header{
+  
+}
+
+.blue{
+    background: rgba(17, 27, 71, 1);
+ 
+}
+.colorblue{
+    color: rgba(9, 17, 51, 1);
+    line-height: 60px;
+}
+.p-blue{
+   color: rgba(80, 95, 152, 1);
+
+}
+.a{
+    color: rgba(9, 17, 51, 1);
+    border: 3px solid rgba(9, 17, 51, 1);
+
+}
+.hero-section{
+    background-image: url('./image/background hero bee.png');
+    background-size: 70%; /* Adjust the width as needed */
+     background-position: right center;
+    background-repeat: no-repeat;
+    transform: translateY(-70px);
+}
+
+
+.almost-footer{
+    background: rgba(231, 236, 255, 1);
+
+
+}
+
+footer{
+    background: rgb(183, 195, 237);
+
+}
